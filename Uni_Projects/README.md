@@ -14,7 +14,7 @@ Here I've listed all the university projects grouped by course I currently have 
     * Link: https://github.com/K-Embee/Uni_DS_Practica2
 * **Graphical Videogame Programming** (Programación Gráfica de Videojuegos): A tower-defense game made in Unreal.
     * Repository: https://github.com/renegeizu/UGR-PGV
-    * Project Information: https://github.com/K-Embee/K-Embee/blob/master/Uni_Projects/UGR_PGV.md
+    * Project Information: https://github.com/K-Embee/K-Embee/blob/master/Uni_Projects/UGR-PGV.md
 * **Project Direction and Management** (Dirección y Gestión de Proyectos): A website and companion app made for an adult day care using Ionic.
     * Repository (1/2): https://github.com/monicordovilla/DGP
     * Repository (2/2): https://github.com/monicordovilla/DGP_App
