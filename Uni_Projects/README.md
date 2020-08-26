@@ -4,7 +4,7 @@ Here I've listed all the university projects grouped by course I currently have 
 
 * **Graphical Systems** (Sistemas Gráficos): A 3D top-down shooter based on Asteroids made in JavaScript.
     * Link: https://github.com/K-Embee/Uni_SG_Practica2
-* **Agent-Based Development** (Desarrollo Basado en Agentes): A multi-agent system made in Java designed to compete in a drone simulation.
+* **Agent-Based Development** (Desarrollo Basado en Agentes): A multi-agent system made in Java designed to navigate and collaborate in a simulated world.
     * Repository (1/2): https://github.com/monicordovilla/DBA_P2/
     * Repository (2/2): https://github.com/monicordovilla/DBA_P3/
     * Project Information: https://github.com/K-Embee/K-Embee/blob/master/Uni_Projects/DBA_P2_DBA_P3.md
