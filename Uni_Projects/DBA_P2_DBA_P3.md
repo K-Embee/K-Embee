@@ -10,7 +10,7 @@ Link/Enlace:
 * Year: 2019-2020
 * Subject: Agent-Based Development
 * Language: Java
-* Goal: Create an agent that can optimally achieve an objective in a simulated world / Create a group of communicating agents that can optimally achieve an objective in a simulated world.
+* Goal: Create an agent that can optimally achieve an objective in a simulated world / Create a group of communicating agents that can optimally achieve an objective in a simulated world. Apply SCRUM development to a real project.
 * Collaborators: @monicordovilla, @AnaBosch, @celiabotella, @Alaiin
 
 Two separate projects, the second being a continuation of the first, consisting in creating agents that control virtual drones that must navigate a grid-based 3D world in order to reach a goal. The first project involves managing a single agent, ensuring that it does not run out of fuel, crash into the terrain, and finds its objective relatively quickly via various pathfinding methods without perfect knowledge of its environment.
@@ -25,7 +25,7 @@ The server-side code is in the hands of the course's professor and, as far as I 
 * Curso: 2019-2020
 * Asignatura: Desarrollo Basado en Agentes
 * Lenguaje: Java
-* Objetivos: Crear un agente que ha de resolver un problema de manera óptima en un mundo simulado / Crear un grupo de agentes que se comunican entre sí para resolver un problema en un mundo simulado.
+* Objetivos: Crear un agente que ha de resolver un problema de manera óptima en un mundo simulado / Crear un grupo de agentes que se comunican entre sí para resolver un problema en un mundo simulado. Aplicar SCRUM a un proyecto real.
 * Colaboradores: @monicordovilla, @AnaBosch, @celiabotella, @Alaiin
 
 Dos proyectos separados, el segundo siendo una continuación del primero, consistiendo en crear agentes que controlan drones virtuales que han de navegar un mundo discreto 3D para alcanzar una meta. El primer proyecto consistió en manejar un unico agente, asegurandose de que no se queda sin combustible, que no se choque contra el terreno y que encuentre su objetivo rápidamente mediante varios métodos de búsqueda de ruta sin conocimiento perfecto de su entorno.
