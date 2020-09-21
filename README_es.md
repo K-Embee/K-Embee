@@ -7,7 +7,7 @@ Soy Kieran, un desarrollador de software recien graduado en Ingeniería Informá
 ## Proyectos Personales
 * **Recoil**: Un juego de aventuras hecho en 48 horas para Miz Jam 1. Hecho completamente en JavaScript.
     * Repositorio: https://github.com/K-Embee/Recoil_Game
-    * Itch.io Link: https://k-embee.itch.io/recoil
+    * Itch.io: https://k-embee.itch.io/recoil
 
 ## Proyectos Universitarios
 Puede encontrar una lista completa de las prácticas que tengo publicados en este enlace: https://github.com/K-Embee/K-Embee/blob/master/Uni_Projects/README.md
