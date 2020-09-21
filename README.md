@@ -1,6 +1,8 @@
 # Hi there
 
-I'm Kieran, graduate in Computer Science/Software Engineering studying at the University of Granada. Right now this GitHub is mostly for my student projects, but I'll be adding more personal projects in the future.
+([Español](https://github.com/K-Embee/K-Embee/blob/master/README_es.md))
+
+I'm Kieran, a software developer who has recently graduated from the University of Granada, with a degree in Computer Science/Software Engineering. Right now this GitHub is mostly for my student projects, but I'll be adding more personal projects in the future.
 
 ## Open-Source Personal Projects
 * **Recoil**: A top-down adventure/shooter game made in 48 hours for the Miz Jam 1. Made entirely in JavaScript.
